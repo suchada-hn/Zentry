@@ -1,9 +1,10 @@
 import "./App.css"
+import Hero from "./components/Hero"
 
 const App = () => {
   return (
-    <main>
-      <p className="text-2xl font-robert-regular text-violet-300">Nigga balls</p>
+    <main className="relative min-h-screen w-screen overflow-x-hidden">
+      <Hero />
     </main>
   )
 }
