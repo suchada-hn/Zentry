@@ -1,5 +1,7 @@
 # Zentry Clone
 
+![Preview Image](https://github.com/Mubassim-Khan/Zentry/blob/main/public/img/Preview.png)
+
 <div align="center">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
