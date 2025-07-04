@@ -125,22 +125,22 @@ const Hero = () => {
                 />
 
                 <h1 className="special-font hero-heading bottom-5 absolute z-40 right-5 text-blue-75">
-                    g<b>a</b>ming
+                    c<b>o</b>ol
                 </h1>
 
                 <div className="absolute left-0 top-0 z-40 size-full">
                     <div className="mt-24 px-5 sm:px-10">
-                        <h1 className="special-font hero-heading text-blue-100">redefi<b>n</b>e</h1>
+                        <h1 className="special-font hero-heading text-blue-100">the fut<b>u</b>re is</h1>
                         <p className="mb-5 max-w-64 font-robert-regular text-blue-100">
-                            Enter the Metagame layer <br /> Unleash the Play Economy
+                            Clean Energy Solutions <br /> Thailand's No.1 Provider
                         </p>
-                        <Button id="watch-trailer" title="Watch Trailer" leftIcon={<TiLocationArrow />} containerClass="!bg-yellow-300 flex-center gap-1" />
+                        <Button id="discover-solutions" title="Discover Solutions" leftIcon={<TiLocationArrow />} containerClass="!bg-yellow-300 flex-center gap-1" />
                     </div>
                 </div>
             </div>
 
             <h1 className="special-font hero-heading bottom-5 absolute right-5 text-black">
-                g<b>a</b>ming
+                c<b>o</b>ol
             </h1>
         </div>
     )
