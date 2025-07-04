@@ -64,8 +64,7 @@ body {
   }
 
   .special-font b {
-    font-family: "Zentry";
-    font-feature-settings: "ss01" on;
+ font-family: "Poppins", sans-serif;
   }
 
   .hero-heading {
